@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ボーダーライン",
+  "base_artist": "大石昌良",
+  "createdAt": "2026-01-14T01:21:20.578577Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ボーダーライン",
+      "artist": "in NO hurry to shout;",
+      "has_synced": true,
+      "path": "select/01_ボーダーライン_in_NO_hurry_to_shout;.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ボーダーライン",
+      "artist": "小南泰葉",
+      "has_synced": false,
+      "path": "select/02_ボーダーライン_小南泰葉.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ボーダーライン",
+      "artist": "大石昌良",
+      "has_synced": false,
+      "path": "select/pl_01_ボーダーライン_大石昌良.txt"
+    }
+  ]
+}
